@@ -5,7 +5,7 @@ host = "192.168.178.100"
 port = 1331
 
 sep = "$$SEP$$"
-File = r"file name"
+File = r"FILE PATH"
 buf = 1024
 file_size = os.path.getsize(File)
 s = socket.socket()
