@@ -1,1 +1,2 @@
-# python_projekts
+# Meine python projekte zusammen gefasst
+von talha duran
